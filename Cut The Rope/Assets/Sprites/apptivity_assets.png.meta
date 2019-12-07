@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 5331b9ad004e79e4ca9836a3d6213530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7707483113334063958
+    second: apptivity_assets_0
+  - first:
+      213: 1082453005959888172
+    second: apptivity_assets_1
+  - first:
+      213: -3621380681700299699
+    second: apptivity_assets_2
+  - first:
+      213: -4696937429877374432
+    second: apptivity_assets_3
+  - first:
+      213: -1985764282823207606
+    second: apptivity_assets_4
+  - first:
+      213: -4039857947585059882
+    second: apptivity_assets_5
+  - first:
+      213: -3035093366796420602
+    second: apptivity_assets_6
+  - first:
+      213: 4028089616717648329
+    second: apptivity_assets_7
+  - first:
+      213: 798414034635992564
+    second: apptivity_assets_8
+  - first:
+      213: 3105488216568277516
+    second: apptivity_assets_9
+  - first:
+      213: -285202348608503474
+    second: apptivity_assets_10
+  - first:
+      213: -4694772992137328496
+    second: apptivity_assets_11
+  - first:
+      213: 961165517414535451
+    second: apptivity_assets_12
+  - first:
+      213: -3017758210379521811
+    second: apptivity_assets_13
+  - first:
+      213: 831461194855580150
+    second: apptivity_assets_14
+  - first:
+      213: 6084190099926664689
+    second: apptivity_assets_15
+  - first:
+      213: 78954797644216998
+    second: apptivity_assets_16
+  - first:
+      213: -9208473984328200124
+    second: apptivity_assets_17
+  - first:
+      213: 2314601166517044858
+    second: apptivity_assets_18
+  - first:
+      213: 258397766005384343
+    second: apptivity_assets_19
+  - first:
+      213: 2888529389058879152
+    second: apptivity_assets_20
+  - first:
+      213: -8457511759658618593
+    second: apptivity_assets_21
+  - first:
+      213: 1080885996647891262
+    second: apptivity_assets_22
+  - first:
+      213: -4543605742230879566
+    second: apptivity_assets_23
+  - first:
+      213: -3434753604822785118
+    second: apptivity_assets_24
+  - first:
+      213: -2965938302657924396
+    second: apptivity_assets_25
+  - first:
+      213: 2898486502364707818
+    second: apptivity_assets_26
+  - first:
+      213: 4812507485190141769
+    second: apptivity_assets_27
+  - first:
+      213: -8396613445386249489
+    second: apptivity_assets_28
+  - first:
+      213: -5995158386317690214
+    second: apptivity_assets_29
+  - first:
+      213: 7591839491206171062
+    second: apptivity_assets_30
+  - first:
+      213: 7873392608625138607
+    second: apptivity_assets_31
+  - first:
+      213: -8712915858437646243
+    second: apptivity_assets_32
+  - first:
+      213: 5647739607676697443
+    second: apptivity_assets_33
+  - first:
+      213: 8339671510167727547
+    second: apptivity_assets_34
+  - first:
+      213: -2211054181730986938
+    second: apptivity_assets_35
+  - first:
+      213: -6498645088543347516
+    second: apptivity_assets_36
+  - first:
+      213: -554030536884163501
+    second: apptivity_assets_37
+  - first:
+      213: -2617068374608627754
+    second: apptivity_assets_38
+  - first:
+      213: -4743800521258343383
+    second: apptivity_assets_39
+  - first:
+      213: -1644909713039000097
+    second: apptivity_assets_40
+  - first:
+      213: 7900611113492180615
+    second: apptivity_assets_41
+  - first:
+      213: 5264566116001405447
+    second: apptivity_assets_42
+  - first:
+      213: -4902589418808817333
+    second: apptivity_assets_43
+  - first:
+      213: 5765278925221668417
+    second: apptivity_assets_44
+  - first:
+      213: -293348701570892580
+    second: apptivity_assets_45
+  - first:
+      213: -3948422362844626852
+    second: apptivity_assets_46
+  - first:
+      213: -3922954780573102536
+    second: apptivity_assets_47
+  - first:
+      213: 3421299433458166472
+    second: apptivity_assets_48
+  - first:
+      213: 420666494280777223
+    second: apptivity_assets_49
+  - first:
+      213: -2226668022230916714
+    second: apptivity_assets_50
+  - first:
+      213: 4731515544983118767
+    second: apptivity_assets_51
+  - first:
+      213: 5528467301677790139
+    second: apptivity_assets_52
+  - first:
+      213: -5689792596255139507
+    second: apptivity_assets_53
+  - first:
+      213: 6510859227928911037
+    second: apptivity_assets_54
+  - first:
+      213: -326443965985461747
+    second: apptivity_assets_55
+  - first:
+      213: 846312645474581937
+    second: apptivity_assets_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: apptivity_assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adb5bec8f983df4ca938c1273298d2e
+      internalID: 7707483113334063958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 920
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeef31ff2fc5334095b05082d3d951f
+      internalID: 1082453005959888172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 985
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc93e59d74c0554da0fa009fc1bf79f
+      internalID: -3621380681700299699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 926
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7f2341acc10f4494eb3e2b863c824
+      internalID: -4696937429877374432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 738
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d47169119dcd347acd69bd2b338431
+      internalID: -1985764282823207606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 721
+        width: 282
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aeb96afad78d74daf632f793fdbb84
+      internalID: -4039857947585059882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 209
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2226e9c5503a8a84e803b2d16674ed83
+      internalID: -3035093366796420602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 468
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e633037e4574af747887d5aaee766c64
+      internalID: 4028089616717648329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 304
+        width: 152
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8671ee95c441c0a49bfc36c2d9ad3c95
+      internalID: 798414034635992564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 476
+        width: 371
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95748d5679fd7b49a7a4bfb19653166
+      internalID: 3105488216568277516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 439
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421521bb8ffeeb4e82e019eb4525be0
+      internalID: -285202348608503474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 412
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180e8dd600dfbd4f87ff44711b8ec6d
+      internalID: -4694772992137328496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d611b95fe4dbc74782f649c54125e60
+      internalID: 961165517414535451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36708224ec1b144c87bf680dcb0ee92
+      internalID: -3017758210379521811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 292
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b106b169494f4b44daf814c70d882712
+      internalID: 831461194855580150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 287
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c1a6a240a31d4428ca94c095f63b74
+      internalID: 6084190099926664689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9961973646491045841bf2187d4166f
+      internalID: 78954797644216998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apptivity_assets_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 923
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13459faeb96f10d49ab9f9c293e5fd5e
+      internalID: -9208473984328200124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
